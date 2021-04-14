@@ -47,5 +47,5 @@ steps:
   inputs:
     appType: webApp
     azureSubscription: 'selfhostedrun'
-    appName: 'webapp-selfhost-testwebapp-selfhost-test'
+    appName: 'webapp-selfhost-test'
     package: $(System.DefaultWorkingDirectory)/**/*.zip
