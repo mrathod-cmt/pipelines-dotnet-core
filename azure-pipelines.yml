@@ -8,7 +8,7 @@ trigger:
 
 pool:
   #vmImage: ubuntu-latest
-  name: "custom-img"
+  name: "vmss-win2019-img"
 
 variables:
   buildConfiguration: 'Release'
